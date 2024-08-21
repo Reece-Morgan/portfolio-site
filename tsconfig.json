@@ -18,7 +18,7 @@
       }
     ],
     "paths": {
-      "@portfolio/*": ["./*"]
+      "@components": ["./lib/components/index.ts"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
